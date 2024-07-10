@@ -1,0 +1,19 @@
+{
+  "name": "smartmes",
+  "version": "1.0.0",
+  "description": "Sistema MES conceito para controle de manufatura idealizado na especialização em Engenharia de Software da Universidade do Vale do Rio do Sinos (Unisinos)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "sequelize": "^6.37.3"
+  }
+}
